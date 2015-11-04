@@ -1,0 +1,19 @@
+item_food
+
+[OBJECT:ITEM]
+
+[ITEM_FOOD:ITEM_FOOD_BISCUITS]
+[NAME:biscuits]
+[LEVEL:2]
+
+[ITEM_FOOD:ITEM_FOOD_STEW]
+[NAME:stew]
+[LEVEL:3]
+
+[ITEM_FOOD:ITEM_FOOD_ROAST]
+[NAME:roast]
+[LEVEL:4]
+
+[ITEM_FOOD:ITEM_FOOD_CAN]
+[NAME:can] Canned food because why the fuck not
+[LEVEL:5]
