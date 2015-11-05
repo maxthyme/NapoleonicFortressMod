@@ -1,4 +1,4 @@
-entity_nations_napoleonic
+entity_default
 [OBJECT:ENTITY]
 
 [ENTITY:FRENCH]
