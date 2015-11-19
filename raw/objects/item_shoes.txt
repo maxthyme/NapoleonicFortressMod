@@ -14,7 +14,7 @@ item_shoes
 [STRUCTURAL_ELASTICITY_WOVEN_THREAD]
 
 [ITEM_SHOES:ITEM_SHOES_BOOTS]
-[NAME:high boot:high boots]
+[NAME:jackboot:jackboots]
 [ARMORLEVEL:1]
 [UPSTEP:1]
 [LAYER:OVER]
@@ -26,7 +26,7 @@ item_shoes
 [HARD]
 
 [ITEM_SHOES:ITEM_SHOES_BOOTS_LOW]
-[NAME:low boot:low boots]
+[NAME:boot:boots]
 [ARMORLEVEL:1]
 [LAYER:OVER]
 [COVERAGE:100]
