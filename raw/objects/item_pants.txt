@@ -78,7 +78,7 @@ item_pants
 
 [ITEM_PANTS:ITEM_PANTS_SALVAR]
 [PREPLURAL:pairs of]
-[NAME:şalvar:şalvars]
+[NAME:salvar:salvars]
 [LBSTEP:MAX]
 [LAYER:OVER]
 [COVERAGE:100]
