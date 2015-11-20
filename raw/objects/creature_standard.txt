@@ -1972,9 +1972,9 @@ creature_standard
 				[TLCM_NOUN:eyes:PLURAL]
 
 [CREATURE:COLOSSUS_BRONZE]
-	[DESCRIPTION:A gigantic bronze construction of unknown origin.]
-	[NAME:bronze golem:bronze golem:bronze golem]
-	[CASTE_NAME:bronze colossus:bronze colossuses:bronze colossus]
+	[DESCRIPTION:A gigantic bronze construction of unknown origin powered by death and destruction.]
+	[NAME:clockwork colossus:clockwork colossuses:clockwork colossus]
+	[CASTE_NAME:clockwork colossus:clockwork colossuses:clockwork colossus]
 	[CREATURE_TILE:'C'][COLOR:6:0:0]
 	[MEGABEAST][DIFFICULTY:15] 11 or higher does not get assigned as adv mode quests
 		[ATTACK_TRIGGER:80:10000:100000]

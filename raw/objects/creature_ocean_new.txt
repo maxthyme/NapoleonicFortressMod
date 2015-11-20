@@ -431,27 +431,6 @@ Sponges were sponsored by the generous contributions of the Bay 12 community.
 		[TL_COLOR_MODIFIER:RED:1]
 			[TLCM_NOUN:body:SINGULAR]
 
-[CREATURE:GIANT_SPONGE]
-	[COPY_TAGS_FROM:SPONGE]
-	[APPLY_CREATURE_VARIATION:GIANT]
-	[CV_REMOVE_TAG:CHANGE_BODY_SIZE_PERC]
-	[APPLY_CURRENT_CREATURE_VARIATION]
-	[GO_TO_END]
-	[SELECT_CASTE:ALL]
-	[CHANGE_BODY_SIZE_PERC:1120]
-	[GO_TO_START]
-	[NAME:giant sponge:giant sponges:giant sponge]
-	[CASTE_NAME:giant sponge:giant sponges:giant sponge]
-	[DESCRIPTION:A huge immobile sponge.]
-	[POPULATION_NUMBER:250:500]
-	[CREATURE_TILE:'S']
-	[COLOR:4:0:1]
-	[PET_EXOTIC]
-	[PETVALUE:500]
-	[MOUNT_EXOTIC]
-	[GO_TO_END]
-	[PREFSTRING:squishy texture]
-
 Horseshoe crabs were sponsored by the generous contributions of the Bay 12 community.
 
 	"We were here ages ago, we'll be here after all of you are gone."

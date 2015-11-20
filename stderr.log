@@ -9,7 +9,7 @@ Loaded 3 DF symbol tables.
 Version: v0.40.24 linux
 Initializing Console.
 Console is running.
-<vtable-address name='renderer' value='0xb75c3168'/>
+<vtable-address name='renderer' value='0xb75c2168'/>
 Initializing Plugins.
 loading plugin 3dveins
 loaded plugin 3dveins; DFHack build 0.40.24-r4-0-g79e1c49
