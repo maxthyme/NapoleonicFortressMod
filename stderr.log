@@ -292,4 +292,4 @@ Invoking: soundsense-season
 Invoking: log-region
 Invoking: view-item-info enable
 Invoking: gui/load-screen enable
-Invoking: die
+Console is shutting down properly.
