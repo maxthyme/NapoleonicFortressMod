@@ -9,6 +9,31 @@ Most of these are from Wikipedia's color list.
 	[WORD:AMBER]
 	[RGB:255:191:0]
 
+[COLOR:ROTTEN]
+	[NAME:rotten]
+	[WORD:ROTTEN]
+	[RGB:0:0:0] --small trick to make some creatures' skin look rotten and decayed
+
+[COLOR:DECAYED]
+	[NAME:decayed]
+	[WORD:DECAYED]
+	[RGB:1:0:0] --same as above
+
+[COLOR:LONG_SHARP]
+	[NAME:long and sharp]
+	[WORD:LONG_SHARP]
+	[RGB:255:255:255] --Long and sharp teeth! (Or other things, in which case, kill yourself my man)
+
+[COLOR:BLOODY]
+	[NAME:bloody]
+	[WORD:BLOODY] --The day of all the blood!
+	[RGB:200:0:0]
+
+[COLOR:CLOCKWORK]
+	[NAME:covered in strange mechanisms]
+	[WORD:CLOCKWORK] --Clockwork machines, I hate them, but I need them for the colossus
+	[RGB:200:0:0]
+
 [COLOR:AMETHYST]
 	[NAME:amethyst]
 	[WORD:AMETHYST]
