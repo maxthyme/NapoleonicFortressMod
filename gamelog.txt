@@ -21245,3 +21245,580 @@ Spring has arrived on the calendar.
 *** STARTING NEW GAME ***
 Spring has arrived on the calendar.
 ** Starting New Arena **
+*** STARTING NEW GAME ***
+Generating world using parameter set CREATE WORLD NOW = 1133335
+ Seed: 46ocQiAouIYg6UaG8MoO
+ History Seed: sYMKsmo2IqgCmKAYs6CY
+ Name Seed: oW0gqQiK8MYmkGw2oAqw
+ Creature Seed: mMUuSQIAMG8wcuSokaye
+Nothing has arrived on the calendar.
+Nothing has arrived on the calendar.
+*** STARTING NEW GAME ***
+Generating world using parameter set CREATE WORLD NOW = 1133555
+ Seed: ikisoku8gMwSGYC88cOE
+ History Seed: kkQoG8E6w4EUei8oIsik
+ Name Seed: W02cOWWIygs0C8aI2eks
+ Creature Seed: 0TeKNaJ7Zv4Wq3s28vfG
+Nothing has arrived on the calendar.
+Nothing has arrived on the calendar.
+** Starting New Outpost **
+Spring has arrived on the calendar.
+Loaded region1, Romthadar (The Ageless Planets) at coordinates (10,9)
+Loaded the fortress Stoi'kaocharovanie (Rackcharmed) of the civilization Tsitadel Osvobozhdat (The Citadel of Liberation).
+
+** Starting New Outpost **
+Metalla Shchiptsykapot has become a Miner.
+You have struck tetrahedrite!
+You have struck cinnabar!
+You have struck kaolinite!
+You have struck pyrite!
+*** STARTING NEW GAME ***
+Spring has arrived on the calendar.
+** Starting New Arena **
+Wendigo 1 misses Wendigo 2!
+Wendigo 2 attacks Wendigo 1 but It jumps away!
+Wendigo 1 punches Wendigo 2 in the lower body with its right hand, bruising the muscle and bruising the stomach!
+Wendigo 2 attacks Wendigo 1 but It jumps away!
+Wendigo 1 scratches Wendigo 2 in the left lower leg, tearing the muscle!
+Wendigo 2 attacks Wendigo 1 but It jumps away!
+Wendigo 2 scratches Wendigo 1 in the lower body, tearing the muscle!
+Wendigo 1 attacks Wendigo 2 but It jumps away!
+Wendigo 2 punches Wendigo 1 in the left upper arm with its left hand, bruising the muscle!
+Wendigo 1 attacks Wendigo 2 but It jumps away!
+Wendigo 2 punches Wendigo 1 in the left hand with its right hand, bruising the muscle!
+Wendigo 1 attacks Wendigo 2 but It jumps away!
+Wendigo 2 attacks Wendigo 1 but It jumps away!
+Wendigo 1 kicks Wendigo 2 in the lower body with its right hoof, bruising the muscle and bruising the spleen!
+Wendigo 2 attacks Wendigo 1 but It jumps away!
+Wendigo 1 scratches Wendigo 2 in the right lower leg, tearing the muscle!
+Wendigo 2 attacks Wendigo 1 but It jumps away!
+Wendigo 1 punches Wendigo 2 in the lower body with its right hand, bruising the muscle and bruising the spleen!
+Wendigo 2 attacks Wendigo 1 but It jumps away!
+Wendigo 2 misses Wendigo 1!
+Wendigo 1 attacks Wendigo 2 but It jumps away!
+Wendigo 2 grabs Wendigo 1 by the upper body with its right upper arm!
+Wendigo 2 punches Wendigo 1 in the right upper arm with its right hand, bruising the muscle!
+Wendigo 1 misses Wendigo 2!
+Wendigo 2 punches Wendigo 1 in the left hand with its left hand, bruising the fat!
+Wendigo 1 punches Wendigo 2 in the left upper leg with its right hand, bruising the fat!
+Wendigo 2 adjusts the grip of Wendigo 2's right upper arm on Wendigo 1's upper body.
+Wendigo 2 punches Wendigo 1 in the left lower leg with its right hand, bruising the fat!
+Wendigo 1 punches Wendigo 2 in the lower body with its left hand, bruising the fat!
+Wendigo 2 punches Wendigo 1 in the right hoof with its left hand and the severed part sails off in an arc!
+The Wendigo 1 falls over.
+Wendigo 1 punches Wendigo 2 in the left eyelid with its left hand, bruising the skin!
+Wendigo 2 releases the grip of Wendigo 2's right upper arm on Wendigo 1's upper body.
+Wendigo 2 punches Wendigo 1 in the left upper leg with its right hand, bruising the muscle!
+Wendigo 1 attacks Wendigo 2 but It jumps away!
+Wendigo 2 grabs Wendigo 1 by the neck with its right upper arm!
+Wendigo 1 punches Wendigo 2 in the upper body with its left hand, bruising the muscle and bruising the liver!
+Wendigo 2 punches Wendigo 1 in the thumb, right hand with its left hand and the injured part collapses!
+Wendigo 1 breaks the grip of Wendigo 2's right upper arm on Wendigo 1's neck.
+Wendigo 1 attacks Wendigo 2 but It jumps away!
+Wendigo 2 punches Wendigo 1 in the right lower arm with its right hand, bruising the muscle!
+Wendigo 1 attacks Wendigo 2 but It jumps away!
+Wendigo 2 punches Wendigo 1 in the left upper arm with its right hand, bruising the muscle!
+Wendigo 1 punches Wendigo 2 in the right upper arm with its right hand, bruising the muscle!
+Wendigo 2 punches Wendigo 1 in the left upper arm with its left hand, bruising the fat!
+Wendigo 1 punches Wendigo 2 in the left hoof with its left hand and the severed part sails off in an arc!
+The Wendigo 2 falls over.
+Wendigo 1 grabs Wendigo 2 by the third finger, left hand with its left upper arm!
+Wendigo 2 punches Wendigo 1 in the lower body with its right hand, bruising the muscle and bruising the lower spine's bone!
+Wendigo 1 punches Wendigo 2 in the lower body with its left hand, bruising the muscle and bruising the right kidney!
+Wendigo 1 releases the grip of Wendigo 1's left upper arm on Wendigo 2's third finger, left hand.
+Wendigo 2 attacks Wendigo 1 but It scrambles away!
+Wendigo 1 bites Wendigo 2 in the right lower leg, tearing the muscle!
+Wendigo 1 latches on firmly!
+The Wendigo 2 is unable to break the grip of The Wendigo 1's upper front teeth on The Wendigo 2's right lower leg!
+Wendigo 2 punches Wendigo 1 in the left hand with its right hand, bruising the fat!
+Wendigo 1 shakes Wendigo 2 around by the right lower leg, tearing apart the right lower leg's fat and bruising the bone!
+A ligament in the right lower leg has been bruised and a tendon has been bruised!
+Wendigo 2 misses Wendigo 1!
+Wendigo 1 punches Wendigo 2 in the right lower arm with its right hand, bruising the muscle!
+Wendigo 2 punches Wendigo 1 in the left hoof with its left hand and the severed part sails off in an arc!
+Wendigo 3 punches Wendigo 1 in the left hoof with its right hand!
+Wendigo 1 punches Wendigo 2 in the right upper arm with its right hand, bruising the muscle!
+Wendigo 2 grabs Wendigo 1 by the left lower arm with its right hand!
+Wendigo 1 punches Wendigo 2 in the left upper leg with its left hand, bruising the fat!
+Wendigo 2 punches Wendigo 1 in the left lower arm with its right hand, bruising the muscle!
+Wendigo 3 punches Wendigo 1 in the left lower leg with its right hand, bruising the muscle!
+Wendigo 1 punches Wendigo 2 in the right hoof with its right hand and the severed part sails off in an arc!
+Wendigo 2 adjusts the grip of Wendigo 2's right hand on Wendigo 1's left lower arm.
+Wendigo 2 punches Wendigo 1 in the upper body with its left hand, bruising the muscle and bruising the liver!
+Wendigo 1 punches Wendigo 2 in the left lower arm with its right hand, bruising the fat!
+Wendigo 3 punches Wendigo 1 in the left upper leg with its left hand, bruising the muscle!
+Wendigo 3 punches Wendigo 1 in the right upper leg with its left hand, bruising the muscle!
+Wendigo 2 punches Wendigo 1 in the right upper arm with its right hand, bruising the fat!
+Wendigo 1 punches Wendigo 2 in the right hand with its left hand, bruising the muscle!
+Wendigo 3 punches Wendigo 1 in the right lower leg with its right hand, bruising the muscle!
+Wendigo 2 punches Wendigo 1 in the right lower arm with its right hand, bruising the muscle!
+Wendigo 1 punches Wendigo 2 in the upper body with its left hand, bruising the muscle and bruising the right floating ribs!
+Wendigo 2 punches Wendigo 1 in the right lower leg with its left hand, bruising the muscle!
+Wendigo 1 punches Wendigo 2 in the upper body with its right hand, bruising the muscle!
+Wendigo 3 grabs Wendigo 1 by the thumb, right hand with its left hand!
+Wendigo 2 punches Wendigo 1 in the right upper arm with its left hand, bruising the muscle!
+Wendigo 1 punches Wendigo 2 in the upper body with its left hand, bruising the muscle and bruising the middle spine's bone!
+Wendigo 3 punches Wendigo 1 in the left hand with its right hand, bruising the bone!
+Wendigo 2 punches Wendigo 1 in the head with its left hand, bruising the muscle!
+Wendigo 3 punches Wendigo 1 in the left hand with its left hand, bruising the muscle!
+Wendigo 1 punches Wendigo 2 in the right upper arm with its left hand, bruising the muscle!
+Wendigo 3 releases the grip of Wendigo 3's left hand on Wendigo 1's thumb, right hand.
+Wendigo 1 punches Wendigo 2 in the right lower arm with its right hand, bruising the muscle!
+Wendigo 2 punches Wendigo 1 in the lower body with its right hand, bruising the muscle and bruising the guts!
+Wendigo 1 looks sick!
+Wendigo 3 punches Wendigo 1 in the upper body with its right hand, bruising the muscle and bruising the left true ribs!
+Wendigo 1 vomits.
+Wendigo 1 punches Wendigo 2 in the lower right back teeth with its right hand and the severed part sails off in an arc!
+Wendigo 3 punches Wendigo 1 in the right lower leg with its left hand, bruising the muscle!
+Wendigo 2 punches Wendigo 1 in the lower body with its right hand, bruising the muscle and bruising the guts!
+Wendigo 1 punches Wendigo 2 in the left lower arm with its right hand, bruising the skin!
+Wendigo 3 kicks Wendigo 1 in the left hand with its left hoof, bruising the bone!
+Wendigo 1 punches Wendigo 2 in the left lower arm with its left hand, bruising the muscle!
+Wendigo 2 punches Wendigo 1 in the left hand with its left hand, bruising the muscle!
+Wendigo 3 punches Wendigo 1 in the left upper leg with its left hand, bruising the muscle!
+Wendigo 1 punches Wendigo 2 in the right upper leg with its right hand, bruising the fat!
+Wendigo 2 punches Wendigo 1 in the left upper leg with its left hand, bruising the muscle!
+Wendigo 1 punches Wendigo 2 in the right upper arm with its left hand, bruising the skin!
+Wendigo 3 punches Wendigo 1 in the left hand with its left hand, bruising the muscle!
+Wendigo 2 locks Wendigo 1's left elbow with Wendigo 2's right hand!
+Wendigo 2 bends Wendigo 1's left lower arm with Wendigo 2's right hand, tearing apart the left elbow's muscle and denting the bone!
+A ligament in the left elbow has been torn and a tendon has been torn!
+Wendigo 2 releases the joint lock of Wendigo 2's right hand on Wendigo 1's left lower arm.
+Wendigo 1 punches Wendigo 2 in the right lower leg, but the attack passes right through!
+Wendigo 3 punches Wendigo 1 in the left upper arm with its right hand, bruising the muscle!
+Wendigo 2 punches Wendigo 1 in the right lower leg with its left hand, bruising the fat!
+Wendigo 1 punches Wendigo 2 in the left upper arm with its right hand, bruising the muscle!
+Wendigo 3 scratches Wendigo 1 in the upper body, tearing the muscle and bruising the left lung!
+Wendigo 2 punches Wendigo 1 in the right lower leg with its right hand, bruising the muscle!
+Wendigo 3 kicks Wendigo 1 in the head with its right hoof, bruising the muscle!
+Wendigo 1 misses Wendigo 2!
+Wendigo 1 retches.
+Wendigo 3 punches Wendigo 1 in the left lower arm with its right hand, bruising the bone!
+Wendigo 2 punches Wendigo 1 in the right lower arm with its right hand, bruising the muscle!
+Wendigo 1 struggles in vain against the grip of Wendigo 2's right hand on Wendigo 1's left lower arm.
+Wendigo 1 vomits.
+Wendigo 1 punches Wendigo 2 in the left lower leg with its right hand, bruising the skin!
+Wendigo 2 scratches Wendigo 1 in the right eyelid, tearing apart the skin!
+Wendigo 3 punches Wendigo 1 in the right upper leg with its left hand, bruising the muscle!
+Wendigo 2 punches Wendigo 1 in the left upper leg with its left hand, bruising the muscle!
+Wendigo 1 punches Wendigo 2 in the right upper leg with its right hand, bruising the muscle!
+Wendigo 1 retches.
+Wendigo 2 bites Wendigo 1 in the left horn, tearing the skin!
+Wendigo 2 latches on firmly!
+Wendigo 3 punches Wendigo 1 in the left lower arm with its left hand, bruising the muscle!
+Wendigo 2 shakes Wendigo 1 around by the left horn, tearing apart the left horn's skin and bruising the bone!
+A tendon in the left horn has been torn!
+Wendigo 1 misses Wendigo 2!
+Wendigo 2 bites Wendigo 1 in the right upper arm, tearing the muscle!
+Wendigo 2 latches on firmly!
+Wendigo 3 punches Wendigo 1 in the upper body with its left hand, bruising the muscle and bruising the liver!
+Wendigo 1 bites Wendigo 2 in the left upper leg, tearing the skin!
+Wendigo 1 latches on firmly!
+Wendigo 2 breaks the grip of Wendigo 1's upper front teeth on Wendigo 2's left upper leg.
+Wendigo 1 retches.
+Wendigo 2 shakes Wendigo 1 around by the right upper arm, tearing apart the right upper arm's muscle and bruising the bone!
+An artery in the right upper arm has been opened by the attack, many nerves have been severed and a tendon has been torn!
+Wendigo 1 scratches Wendigo 2 in the left lower arm, tearing the fat!
+Wendigo 3 punches Wendigo 1 in the upper body with its left hand, bruising the muscle and bruising the left lung!
+Wendigo 2 shakes Wendigo 1 around by the right upper arm, tearing apart the right upper arm's muscle and bruising the bone!
+An artery in the right upper arm has been opened by the attack, many nerves have been severed and a tendon has been torn!
+Wendigo 1 retches.
+Wendigo 2 scratches Wendigo 1 in the left lower arm, tearing the muscle!
+Wendigo 1 scratches Wendigo 2 in the right upper leg, tearing the skin!
+Wendigo 3 bites Wendigo 1 in the lower body, tearing the fat!
+Wendigo 3 latches on firmly!
+Wendigo 2 punches Wendigo 1 in the upper body with its right hand, bruising the muscle and bruising the right lung!
+Wendigo 3 shakes Wendigo 1 around by the lower body, tearing apart the lower body's skin and bruising the fat!
+Wendigo 1 bites Wendigo 2 in the left upper leg, tearing the fat!
+Wendigo 1 latches on firmly!
+Wendigo 3 shakes Wendigo 1 around by the lower body, tearing apart the lower body's skin and bruising the fat!
+Wendigo 2 punches Wendigo 1 in the left lower arm with its right hand, bruising the bone!
+Wendigo 3 shakes Wendigo 1 around by the lower body, tearing apart the lower body's skin and bruising the fat!
+Wendigo 2 breaks the grip of Wendigo 1's upper front teeth on Wendigo 2's left upper leg.
+Wendigo 1 bites Wendigo 2 in the head, tearing the skin!
+Wendigo 1 latches on firmly!
+Wendigo 3 kicks Wendigo 1 in the left lower arm with its right hoof, bruising the bone!
+Wendigo 2 bites Wendigo 1 in the right upper arm, tearing apart the skin and bruising the bone!
+A tendon has been torn!
+Wendigo 2 latches on firmly!
+Wendigo 1 struggles in vain against the grip of Wendigo 2's upper front teeth on Wendigo 1's right upper arm.
+Wendigo 2 breaks the grip of Wendigo 1's upper front teeth on Wendigo 2's head.
+Wendigo 1 struggles in vain against the grip of Wendigo 2's upper front teeth on Wendigo 1's right upper arm.
+Wendigo 3 punches Wendigo 1 in the left lower leg with its right hand, bruising the muscle!
+Wendigo 2 shakes Wendigo 1 around by the right upper arm, tearing apart the right upper arm's muscle and bruising the bone!
+An artery in the right upper arm has been opened by the attack, many nerves have been severed and a tendon has been torn!
+The Wendigo 1 passes out from exhaustion.
+Wendigo 2 shakes Wendigo 1 around by the right upper arm, tearing apart the right upper arm's muscle and bruising the bone!
+An artery in the right upper arm has been opened by the attack, many nerves have been severed and a tendon has been torn!
+Wendigo 2 shakes Wendigo 1 around by the right upper arm, tearing apart the right upper arm's muscle and bruising the bone!
+An artery in the right upper arm has been opened by the attack, many nerves have been severed and a tendon has been torn!
+Wendigo 3 grabs Wendigo 1 by the thumb, left hand with its right upper arm!
+Wendigo 2 shakes Wendigo 1 around by the right upper arm, tearing apart the right upper arm's muscle and bruising the bone!
+An artery in the right upper arm has been opened by the attack, many nerves have been severed and a tendon has been torn!
+Wendigo 2 punches Wendigo 1 in the head with its right hand, bruising the muscle!
+Wendigo 1 vomits.
+Wendigo 3 punches Wendigo 1 in the head with its left hand, bruising the muscle!
+Wendigo 2 punches Wendigo 1 in the head with its left hand, bruising the muscle!
+Wendigo 3 punches Wendigo 1 in the head with its left hand, bruising the muscle!
+Wendigo 2 punches Wendigo 1 in the head with its right hand, bruising the muscle!
+Wendigo 3 punches Wendigo 1 in the head with its right hand, bruising the muscle!
+Wendigo 1 retches.
+Wendigo 2 punches Wendigo 1 in the head with its right hand, bruising the muscle!
+Wendigo 3 punches Wendigo 1 in the head with its left hand, bruising the muscle!
+Wendigo 2 punches Wendigo 1 in the head with its left hand, bruising the muscle!
+Wendigo 3 punches Wendigo 1 in the head with its right hand, bruising the muscle!
+Wendigo 2 releases the grip of Wendigo 2's right hand on Wendigo 1's left lower arm.
+Wendigo 3 punches Wendigo 1 in the head with its right hand, bruising the muscle!
+Wendigo 2 punches Wendigo 1 in the head with its right hand, bruising the muscle!
+Wendigo 3 punches Wendigo 1 in the head with its right hand, bruising the muscle!
+Wendigo 2 punches Wendigo 1 in the head with its left hand, bruising the muscle!
+Wendigo 3 punches Wendigo 1 in the head with its right hand, bruising the muscle!
+Wendigo 2 grabs Wendigo 1 by the upper right back teeth with its left lower arm!
+Wendigo 2 punches Wendigo 1 in the head with its left hand, bruising the muscle!
+Wendigo 3 punches Wendigo 1 in the head with its left hand, bruising the muscle!
+Wendigo 2 punches Wendigo 1 in the head with its left hand, bruising the muscle!
+Wendigo 3 punches Wendigo 1 in the head with its right hand, bruising the muscle!
+Wendigo 2 punches Wendigo 1 in the head with its right hand, bruising the muscle!
+Wendigo 3 punches Wendigo 1 in the head with its right hand, bruising the muscle!
+Wendigo 2 punches Wendigo 1 in the head with its left hand, bruising the muscle!
+Wendigo 3 punches Wendigo 1 in the head with its left hand, bruising the muscle!
+Wendigo 2 punches Wendigo 1 in the head with its left hand, bruising the muscle!
+Wendigo 3 punches Wendigo 1 in the head with its right hand, bruising the muscle!
+Wendigo 2 punches Wendigo 1 in the head with its right hand, bruising the muscle!
+Wendigo 3 punches Wendigo 1 in the head with its right hand, bruising the muscle!
+Wendigo 1 vomits.
+Wendigo 3 punches Wendigo 1 in the head with its right hand, bruising the muscle!
+Wendigo 2 punches Wendigo 1 in the head with its right hand, bruising the muscle!
+Wendigo 1 retches.
+Wendigo 2 releases the grip of Wendigo 2's left lower arm on Wendigo 1's upper right back teeth.
+Wendigo 3 punches Wendigo 1 in the head with its left hand, bruising the muscle!
+Wendigo 2 punches Wendigo 1 in the head with its left hand, bruising the muscle!
+Wendigo 1 retches.
+Wendigo 3 punches Wendigo 1 in the head with its right hand, bruising the muscle!
+Wendigo 1 retches.
+Wendigo 2 punches Wendigo 1 in the head with its right hand, bruising the muscle!
+Wendigo 3 punches Wendigo 1 in the head with its right hand, bruising the muscle!
+Wendigo 2 punches Wendigo 1 in the head with its left hand, bruising the muscle!
+Wendigo 1 retches.
+Wendigo 3 punches Wendigo 1 in the head with its left hand, bruising the muscle!
+Wendigo 1 retches.
+Wendigo 2 punches Wendigo 1 in the head with its right hand, bruising the muscle!
+Wendigo 3 punches Wendigo 1 in the head with its right hand, bruising the muscle!
+Wendigo 2 punches Wendigo 1 in the head with its right hand, bruising the muscle!
+Wendigo 3 punches Wendigo 1 in the head with its left hand, bruising the muscle!
+Wendigo 2 punches Wendigo 1 in the head with its right hand, bruising the muscle!
+Wendigo 3 punches Wendigo 1 in the head with its left hand, bruising the muscle!
+Wendigo 2 punches Wendigo 1 in the head with its left hand, bruising the muscle!
+Wendigo 3 punches Wendigo 1 in the head with its right hand, bruising the muscle!
+Wendigo 2 punches Wendigo 1 in the head with its left hand, bruising the muscle!
+Wendigo 3 punches Wendigo 1 in the head with its left hand, bruising the muscle!
+Wendigo 2 punches Wendigo 1 in the head with its left hand, bruising the muscle!
+Wendigo 3 punches Wendigo 1 in the head with its left hand, bruising the muscle!
+Wendigo 2 punches Wendigo 1 in the head with its right hand, bruising the muscle!
+Wendigo 3 punches Wendigo 1 in the head with its left hand, bruising the muscle!
+Wendigo 2 punches Wendigo 1 in the head with its left hand, bruising the muscle!
+Wendigo 1 vomits.
+Wendigo 3 punches Wendigo 1 in the head with its right hand, bruising the muscle!
+Wendigo 2 punches Wendigo 1 in the head with its right hand, bruising the muscle!
+Wendigo 3 punches Wendigo 1 in the head with its left hand, bruising the muscle!
+Wendigo 2 punches Wendigo 1 in the head with its right hand, bruising the muscle!
+Wendigo 3 punches Wendigo 1 in the head with its right hand, bruising the muscle!
+Wendigo 2 punches Wendigo 1 in the head with its right hand, bruising the muscle!
+Wendigo 1 retches.
+Wendigo 3 punches Wendigo 1 in the head with its left hand, bruising the muscle!
+Wendigo 2 punches Wendigo 1 in the head with its left hand, bruising the muscle!
+Wendigo 3 punches Wendigo 1 in the head with its right hand, bruising the muscle!
+Wendigo 1 retches.
+Wendigo 3 punches Wendigo 1 in the head with its left hand, bruising the muscle!
+Wendigo 2 punches Wendigo 1 in the head with its right hand, bruising the muscle!
+Wendigo 3 punches Wendigo 1 in the head with its right hand, bruising the muscle!
+Wendigo 2 punches Wendigo 1 in the head with its right hand, bruising the muscle!
+Wendigo 3 punches Wendigo 1 in the head with its left hand, bruising the muscle!
+Wendigo 2 grabs Wendigo 1 by the left upper arm with its left lower leg!
+Wendigo 2 punches Wendigo 1 in the head with its left hand, bruising the muscle!
+Wendigo 3 punches Wendigo 1 in the head with its left hand, bruising the muscle!
+The Wendigo 1 regains consciousness.
+The Wendigo 1 passes out from exhaustion.
+Wendigo 3 punches Wendigo 1 in the head with its right hand, bruising the muscle!
+Wendigo 2 punches Wendigo 1 in the head with its right hand, bruising the muscle!
+Wendigo 1 vomits.
+Wendigo 2 punches Wendigo 1 in the head with its right hand, bruising the muscle!
+Wendigo 3 punches Wendigo 1 in the head with its left hand, bruising the muscle!
+Wendigo 2 punches Wendigo 1 in the head with its right hand, bruising the muscle!
+Wendigo 3 punches Wendigo 1 in the head with its left hand, bruising the muscle!
+Wendigo 2 punches Wendigo 1 in the head with its right hand, bruising the muscle!
+Wendigo 3 punches Wendigo 1 in the head with its left hand, bruising the muscle!
+Wendigo 2 punches Wendigo 1 in the head with its left hand, bruising the muscle!
+Wendigo 3 punches Wendigo 1 in the head with its left hand, bruising the muscle!
+Wendigo 3 punches Wendigo 1 in the head with its right hand, bruising the muscle!
+Wendigo 2 punches Wendigo 1 in the head with its left hand, bruising the muscle!
+Wendigo 3 punches Wendigo 1 in the head with its left hand, bruising the muscle!
+Wendigo 2 punches Wendigo 1 in the head with its left hand, bruising the muscle!
+Wendigo 3 punches Wendigo 1 in the head with its right hand, bruising the muscle!
+Wendigo 1 vomits.
+Wendigo 2 punches Wendigo 1 in the head with its left hand, bruising the muscle!
+Wendigo 1 retches.
+Wendigo 3 punches Wendigo 1 in the head with its left hand, bruising the muscle!
+Wendigo 2 punches Wendigo 1 in the head with its right hand, bruising the muscle!
+Wendigo 3 punches Wendigo 1 in the head with its left hand, bruising the muscle!
+Wendigo 2 punches Wendigo 1 in the head with its left hand, bruising the muscle!
+Wendigo 3 punches Wendigo 1 in the head with its right hand, bruising the muscle!
+Wendigo 2 locks Wendigo 1's left shoulder with Wendigo 2's left lower leg!
+Wendigo 2 bends Wendigo 1's left upper arm with Wendigo 2's left lower leg and the left shoulder collapses!
+A ligament in the left shoulder has been torn and a tendon has been torn!
+Wendigo 2 releases the joint lock of Wendigo 2's left lower leg on Wendigo 1's left upper arm.
+Wendigo 3 punches Wendigo 1 in the head with its left hand, bruising the muscle!
+Wendigo 2 punches Wendigo 1 in the head with its right hand, bruising the muscle!
+Wendigo 2 releases the grip of Wendigo 2's left lower leg on Wendigo 1's left upper arm.
+Wendigo 3 punches Wendigo 1 in the head with its right hand, bruising the muscle!
+Wendigo 2 punches Wendigo 1 in the head with its right hand, bruising the muscle!
+Wendigo 3 punches Wendigo 1 in the head with its right hand, bruising the muscle!
+Wendigo 2 punches Wendigo 1 in the head with its right hand, bruising the muscle!
+Wendigo 2 punches Wendigo 1 in the head with its left hand, bruising the muscle!
+Wendigo 3 punches Wendigo 1 in the head with its right hand, bruising the muscle!
+Wendigo 2 punches Wendigo 1 in the head with its left hand, bruising the muscle!
+Wendigo 3 punches Wendigo 1 in the head with its left hand, bruising the muscle!
+Wendigo 2 punches Wendigo 1 in the head with its right hand, bruising the muscle!
+Wendigo 3 punches Wendigo 1 in the head with its right hand, bruising the muscle!
+Wendigo 2 punches Wendigo 1 in the head with its left hand, bruising the muscle!
+Wendigo 3 punches Wendigo 1 in the head with its left hand, bruising the muscle!
+Wendigo 2 punches Wendigo 1 in the head with its right hand, bruising the muscle!
+Wendigo 3 punches Wendigo 1 in the head with its left hand, bruising the muscle!
+Wendigo 2 punches Wendigo 1 in the head with its right hand, bruising the muscle!
+Wendigo 3 punches Wendigo 1 in the head with its left hand, bruising the muscle!
+Wendigo 2 punches Wendigo 1 in the head with its left hand, bruising the muscle!
+Wendigo 3 punches Wendigo 1 in the head with its right hand, bruising the muscle!
+Wendigo 1 vomits.
+Wendigo 1 retches.
+Wendigo 2 punches Wendigo 1 in the head with its right hand, bruising the muscle!
+Wendigo 3 punches Wendigo 1 in the head with its left hand, bruising the muscle!
+Wendigo 2 punches Wendigo 1 in the head with its right hand, bruising the muscle!
+Wendigo 3 punches Wendigo 1 in the head with its left hand, bruising the muscle!
+Wendigo 2 punches Wendigo 1 in the head with its left hand, bruising the muscle!
+Wendigo 1 retches.
+Wendigo 3 punches Wendigo 1 in the head with its right hand, bruising the muscle!
+Wendigo 2 punches Wendigo 1 in the head with its left hand, bruising the muscle!
+Wendigo 1 retches.
+Wendigo 3 punches Wendigo 1 in the head with its left hand, bruising the muscle!
+Wendigo 2 punches Wendigo 1 in the head with its left hand, bruising the muscle!
+Wendigo 3 punches Wendigo 1 in the head with its left hand, bruising the muscle!
+Wendigo 3 releases the grip of Wendigo 3's right upper arm on Wendigo 1's thumb, left hand.
+Wendigo 2 punches Wendigo 1 in the head with its right hand, bruising the muscle!
+Wendigo 3 grabs Wendigo 1 by the first finger, left hand with its left upper arm!
+Wendigo 1 retches.
+Wendigo 3 punches Wendigo 1 in the head with its left hand, bruising the muscle!
+Wendigo 2 grabs Wendigo 1 by the right hand with its right upper arm!
+Wendigo 2 punches Wendigo 1 in the head with its left hand, bruising the muscle!
+Wendigo 3 punches Wendigo 1 in the head with its left hand, bruising the muscle!
+Wendigo 2 punches Wendigo 1 in the head with its right hand, bruising the muscle!
+Wendigo 3 punches Wendigo 1 in the head with its left hand, bruising the muscle!
+Wendigo 2 punches Wendigo 1 in the head with its right hand, bruising the muscle!
+Wendigo 3 punches Wendigo 1 in the head with its right hand, bruising the muscle!
+Wendigo 2 punches Wendigo 1 in the head with its left hand, bruising the muscle!
+Wendigo 3 punches Wendigo 1 in the head with its right hand, bruising the muscle!
+Wendigo 1 vomits.
+Wendigo 2 punches Wendigo 1 in the head with its right hand, bruising the muscle!
+Wendigo 3 releases the grip of Wendigo 3's left upper arm on Wendigo 1's first finger, left hand.
+Wendigo 3 punches Wendigo 1 in the head with its right hand, bruising the muscle!
+Wendigo 2 punches Wendigo 1 in the head with its right hand, bruising the muscle!
+Wendigo 3 punches Wendigo 1 in the head with its left hand, bruising the muscle!
+Wendigo 2 punches Wendigo 1 in the head with its left hand, bruising the muscle!
+Wendigo 3 punches Wendigo 1 in the head with its right hand, bruising the muscle!
+Wendigo 2 punches Wendigo 1 in the head with its left hand, bruising the muscle!
+Wendigo 3 punches Wendigo 1 in the head with its left hand, bruising the muscle!
+Wendigo 2 punches Wendigo 1 in the head with its left hand, bruising the muscle!
+Wendigo 3 punches Wendigo 1 in the head with its left hand, bruising the muscle!
+Wendigo 2 locks Wendigo 1's right wrist with Wendigo 2's right upper arm!
+Wendigo 3 punches Wendigo 1 in the head with its right hand, bruising the muscle!
+Wendigo 2 bends Wendigo 1's right hand with Wendigo 2's right upper arm and the right wrist collapses!
+A ligament in the right wrist has been torn and a tendon has been torn!
+Wendigo 2 releases the joint lock of Wendigo 2's right upper arm on Wendigo 1's right hand.
+Wendigo 2 punches Wendigo 1 in the head with its left hand, bruising the muscle!
+Wendigo 3 punches Wendigo 1 in the head with its right hand, bruising the muscle!
+Wendigo 1 has bled to death.
+Wendigo 2 punches Wendigo 3 in the left hoof with its right hand and the severed part sails off in an arc!
+The Wendigo 3 falls over.
+Wendigo 3 punches Wendigo 2 in the right lower leg with its left hand, bruising the muscle!
+Wendigo 2 attacks Wendigo 3 but It scrambles away!
+Wendigo 3 punches Wendigo 2 in the lower body with its right hand, bruising the muscle and bruising the stomach!
+Wendigo 2 attacks Wendigo 3 but It scrambles away!
+Wendigo 3 grabs Wendigo 2 by the right hand with its left upper arm!
+Wendigo 2's attack is interrupted!
+Wendigo 2 bites Wendigo 3 in the left upper arm, tearing the muscle!
+Wendigo 2 latches on firmly!
+Wendigo 3 punches Wendigo 2 in the left upper leg with its right hand, bruising the fat!
+Wendigo 3 breaks the grip of Wendigo 2's upper front teeth on Wendigo 3's left upper arm.
+Wendigo 3 locks Wendigo 2's right wrist with Wendigo 3's left upper arm!
+Wendigo 2 punches Wendigo 3 in the right lower leg with its right hand, bruising the muscle!
+Wendigo 3 bends Wendigo 2's right hand with Wendigo 3's left upper arm, tearing apart the right wrist's muscle and denting the bone!
+A ligament in the right wrist has been torn and a tendon has been torn!
+Wendigo 3 releases the joint lock of Wendigo 3's left upper arm on Wendigo 2's right hand.
+Wendigo 3 punches Wendigo 2 in the left hand with its right hand, bruising the muscle!
+Wendigo 2 punches Wendigo 3 in the right upper leg with its left hand, bruising the muscle!
+Wendigo 3 punches Wendigo 2 in the right upper leg with its right hand, bruising the fat!
+The Wendigo 2 passes out from exhaustion.
+Wendigo 3 punches Wendigo 2 in the head with its right hand, bruising the muscle!
+The Wendigo 2 regains consciousness.
+Wendigo 3 punches Wendigo 2 in the head with its right hand, bruising the muscle!
+Wendigo 2 punches Wendigo 3 in the left upper arm with its left hand, bruising the fat!
+Wendigo 3 releases the grip of Wendigo 3's left upper arm on Wendigo 2's right hand.
+Wendigo 2 attacks Wendigo 3 but It rolls away!
+Wendigo 3 punches Wendigo 2 in the upper body with its right hand, bruising the muscle!
+Wendigo 2 attacks Wendigo 3 but It rolls away!
+Wendigo 3 punches Wendigo 2 in the head with its right hand, bruising the muscle!
+Wendigo 2 attacks Wendigo 3 but It scrambles away!
+Wendigo 3 punches Wendigo 2 in the right lower leg with its right hand, bruising the muscle!
+Wendigo 2 scratches Wendigo 3 in the right upper leg, tearing the muscle!
+Wendigo 3 scratches Wendigo 2 in the right lower arm, tearing the muscle!
+The Wendigo 2 is no longer stunned.
+The Wendigo 2 passes out from exhaustion.
+Wendigo 3 punches Wendigo 2 in the head with its right hand, bruising the muscle!
+Wendigo 3 grabs Wendigo 2 by the left horn with its left upper leg!
+Wendigo 3 punches Wendigo 2 in the head with its right hand, bruising the muscle!
+Wendigo 3 releases the grip of Wendigo 3's left upper leg on Wendigo 2's left horn.
+Wendigo 3 punches Wendigo 2 in the head with its right hand, bruising the muscle!
+Wendigo 3 grabs Wendigo 2 by the thumb, left hand with its right upper arm!
+Wendigo 3 punches Wendigo 2 in the head with its right hand, bruising the muscle!
+Wendigo 3 releases the grip of Wendigo 3's right upper arm on Wendigo 2's thumb, left hand.
+Wendigo 3 punches Wendigo 2 in the head with its right hand, bruising the muscle!
+Wendigo 3 grabs Wendigo 2 by the upper right back teeth with its right hand!
+Wendigo 3 punches Wendigo 2 in the head with its right hand, bruising the muscle!
+The Wendigo 2 regains consciousness.
+Wendigo 2 breaks the grip of Wendigo 3's right hand on Wendigo 2's upper right back teeth.
+Wendigo 2 misses Wendigo 3!
+Wendigo 3 punches Wendigo 2 in the left lower arm with its right hand, bruising the muscle!
+Wendigo 3 punches Wendigo 2 in the right lower leg with its right hand, bruising the muscle!
+Wendigo 2 punches Wendigo 3 in the right upper leg with its left hand, bruising the fat!
+Wendigo 3 bites Wendigo 2 in the lower body, tearing the muscle and bruising the stomach!
+Wendigo 3 latches on firmly!
+Wendigo 2 punches Wendigo 3 in the left lower leg with its left hand, bruising the muscle!
+Wendigo 3 shakes Wendigo 2 around by the lower body, tearing apart the lower body's skin and bruising the fat!
+The Wendigo 2 passes out from exhaustion.
+Wendigo 3 shakes Wendigo 2 around by the lower body, tearing apart the lower body's fat!
+Wendigo 3 punches Wendigo 2 in the head with its right hand, bruising the muscle!
+The Wendigo 3 passes out from exhaustion.
+The Wendigo 3 regains consciousness.
+Wendigo 3 punches Wendigo 2 in the head with its right hand, bruising the muscle!
+Wendigo 3 grabs Wendigo 2 by the first finger, right hand with its right lower arm!
+Wendigo 3 punches Wendigo 2 in the head with its right hand, bruising the muscle!
+The Wendigo 2 regains consciousness.
+Wendigo 2 punches Wendigo 3 in the right upper leg with its left hand, bruising the muscle!
+Wendigo 3 punches Wendigo 2 in the right hand with its right hand, bruising the fat!
+Wendigo 3 punches Wendigo 2 in the upper body with its right hand, bruising the muscle and bruising the right lung!
+Wendigo 2 punches Wendigo 3 in the right upper leg with its left hand, bruising the fat!
+Wendigo 3 bites Wendigo 2 in the right upper leg, tearing the fat and bruising the muscle!
+Wendigo 3 latches on firmly!
+Wendigo 2 punches Wendigo 3 in the right upper arm with its left hand, bruising the fat!
+Wendigo 2 breaks the grip of Wendigo 3's upper front teeth on Wendigo 2's right upper leg.
+Wendigo 3 releases the grip of Wendigo 3's right lower arm on Wendigo 2's first finger, right hand.
+Wendigo 2 grabs Wendigo 3 by the right lower leg with its left upper arm!
+Wendigo 3 punches Wendigo 2 in the right lower arm with its right hand, bruising the muscle!
+Wendigo 2 punches Wendigo 3 in the right lower arm with its left hand, bruising the muscle!
+The Wendigo 3 is no longer stunned.
+Wendigo 3 punches Wendigo 2 in the left upper arm with its right hand, bruising the muscle!
+The Wendigo 2 passes out from exhaustion.
+Wendigo 3 punches Wendigo 2 in the head with its right hand, bruising the muscle!
+Wendigo 3 breaks the grip of Wendigo 2's left upper arm on Wendigo 3's right lower leg.
+Wendigo 3 punches Wendigo 2 in the head with its right hand, bruising the muscle!
+The Wendigo 3 passes out from exhaustion.
+The Wendigo 3 regains consciousness.
+Wendigo 3 punches Wendigo 2 in the head with its right hand, bruising the muscle!
+The Wendigo 2 regains consciousness.
+Wendigo 2 punches Wendigo 3 in the left hand with its left hand, bruising the skin!
+Wendigo 3 punches Wendigo 2 in the left lower leg with its right hand, bruising the muscle!
+Wendigo 2 scratches Wendigo 3 in the right hoof and the severed part sails off in an arc!
+Wendigo 3 scratches Wendigo 2 in the left hand, tearing the muscle!
+An artery has been opened by the attack and a motor nerve has been severed!
+Wendigo 2 scratches Wendigo 3 in the right upper arm, tearing the fat!
+Wendigo 3 punches Wendigo 2 in the upper body with its right hand, bruising the muscle!
+Wendigo 2 scratches Wendigo 3 in the left lower leg, tearing the muscle!
+The Wendigo 3 passes out from exhaustion.
+Wendigo 2 scratches Wendigo 3 in the head, tearing the muscle!
+Wendigo 2 bites Wendigo 3 in the head, tearing the muscle!
+Wendigo 2 latches on firmly!
+Wendigo 2 shakes Wendigo 3 around by the head, tearing apart the head's fat and bruising the muscle!
+Wendigo 2 bites Wendigo 3 in the head, tearing the muscle!
+Wendigo 2 latches on firmly!
+Wendigo 2 shakes Wendigo 3 around by the head, tearing apart the head's fat and bruising the muscle!
+Wendigo 2 scratches Wendigo 3 in the head, tearing the muscle!
+Wendigo 2 bites Wendigo 3 in the head, tearing the muscle!
+Wendigo 2 latches on firmly!
+The Wendigo 2 is no longer stunned.
+Wendigo 2 shakes Wendigo 3 around by the head, tearing apart the head's fat and bruising the muscle!
+Wendigo 2 bites Wendigo 3 in the head, tearing apart the muscle!
+An artery has been opened by the attack!
+Wendigo 2 latches on firmly!
+Wendigo 2 shakes Wendigo 3 around by the head, tearing apart the head's fat and bruising the muscle!
+Wendigo 2 bites Wendigo 3 in the head, tearing apart the muscle!
+Wendigo 2 latches on firmly!
+Wendigo 2 shakes Wendigo 3 around by the head, tearing apart the head's fat and bruising the muscle!
+Wendigo 2 scratches Wendigo 3 in the head, tearing apart the muscle!
+Wendigo 2 bites Wendigo 3 in the head, tearing apart the muscle!
+Wendigo 2 latches on firmly!
+Wendigo 2 shakes Wendigo 3 around by the head, tearing apart the head's fat and bruising the muscle!
+Wendigo 2 bites Wendigo 3 in the head, tearing the muscle!
+Wendigo 2 latches on firmly!
+Wendigo 2 shakes Wendigo 3 around by the head, tearing apart the head's fat and bruising the muscle!
+Wendigo 2 scratches Wendigo 3 in the head, tearing apart the muscle!
+An artery has been opened by the attack!
+Wendigo 2 scratches Wendigo 3 in the head, tearing the muscle!
+Wendigo 2 scratches Wendigo 3 in the head, tearing apart the muscle!
+Wendigo 2 grabs Wendigo 3 by the lower right back teeth with its left upper leg!
+The Wendigo 2 passes out from exhaustion.
+The Wendigo 3 regains consciousness.
+The Wendigo 3 passes out from exhaustion.
+Wendigo 2 bites Wendigo 3 in the head, tearing apart the muscle!
+Wendigo 2 latches on firmly!
+Wendigo 2 shakes Wendigo 3 around by the head, tearing apart the head's fat and bruising the muscle!
+Wendigo 2 bites Wendigo 3 in the head, tearing apart the muscle!
+Wendigo 2 latches on firmly!
+Wendigo 2 shakes Wendigo 3 around by the head, tearing apart the head's fat and bruising the muscle!
+Wendigo 2 bites Wendigo 3 in the head, tearing apart the muscle!
+Wendigo 2 latches on firmly!
+Wendigo 2 shakes Wendigo 3 around by the head, tearing apart the head's fat and bruising the muscle!
+Wendigo 2 bites Wendigo 3 in the head, tearing apart the muscle!
+Wendigo 2 latches on firmly!
+Wendigo 2 shakes Wendigo 3 around by the head, tearing apart the head's fat and bruising the muscle!
+The Wendigo 2 is no longer stunned.
+Wendigo 2 shakes Wendigo 3 around by the head, tearing apart the head's fat and bruising the muscle!
+Wendigo 2 scratches Wendigo 3 in the head, tearing apart the muscle!
+Wendigo 2 bites Wendigo 3 in the head, tearing apart the muscle!
+An artery has been opened by the attack!
+Wendigo 2 latches on firmly!
+Wendigo 2 shakes Wendigo 3 around by the head, tearing apart the head's fat and bruising the muscle!
+Wendigo 2 bites Wendigo 3 in the head, tearing apart the muscle!
+Wendigo 2 latches on firmly!
+Wendigo 2 shakes Wendigo 3 around by the head, tearing apart the head's fat and bruising the muscle!
+Wendigo 2 bites Wendigo 3 in the head, tearing apart the muscle!
+Wendigo 2 latches on firmly!
+Wendigo 2 shakes Wendigo 3 around by the head, tearing apart the head's fat and bruising the muscle!
+Wendigo 2 bites Wendigo 3 in the head, tearing apart the muscle!
+Wendigo 2 latches on firmly!
+Wendigo 2 shakes Wendigo 3 around by the head, tearing apart the head's fat and bruising the muscle!
+Wendigo 2 bites Wendigo 3 in the head, tearing apart the muscle!
+Wendigo 2 latches on firmly!
+Wendigo 2 shakes Wendigo 3 around by the head, tearing apart the head's fat and bruising the muscle!
+Wendigo 2 scratches Wendigo 3 in the head, tearing apart the muscle!
+Wendigo 2 bites Wendigo 3 in the head, tearing apart the muscle!
+An artery has been opened by the attack!
+Wendigo 2 latches on firmly!
+Wendigo 2 shakes Wendigo 3 around by the head, tearing apart the head's fat and bruising the muscle!
+Wendigo 2 bites Wendigo 3 in the head, tearing apart the muscle!
+An artery has been opened by the attack!
+Wendigo 2 latches on firmly!
+Wendigo 2 shakes Wendigo 3 around by the head, tearing apart the head's fat and bruising the muscle!
+Wendigo 2 releases the grip of Wendigo 2's left upper leg on Wendigo 3's lower right back teeth.
+Wendigo 2 grabs Wendigo 3 by the lower body with its right upper leg!
+Wendigo 2 scratches Wendigo 3 in the head, tearing apart the muscle!
+An artery has been opened by the attack!
+Wendigo 2 bites Wendigo 3 in the head, tearing apart the muscle!
+Wendigo 2 latches on firmly!
+Wendigo 2 shakes Wendigo 3 around by the head, tearing apart the head's fat and bruising the muscle!
+Wendigo 2 bites Wendigo 3 in the head, tearing apart the muscle!
+Wendigo 2 latches on firmly!
+Wendigo 2 shakes Wendigo 3 around by the head, tearing apart the head's fat and bruising the muscle!
+Wendigo 2 scratches Wendigo 3 in the head, tearing apart the muscle!
+An artery has been opened by the attack!
+Wendigo 2 bites Wendigo 3 in the head, tearing apart the muscle!
+Wendigo 2 latches on firmly!
+Wendigo 3 has bled to death.
