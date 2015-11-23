@@ -1,0 +1,4 @@
+c_variation_default
+
+[OBJECT:CREATURE_VARIATION]
+

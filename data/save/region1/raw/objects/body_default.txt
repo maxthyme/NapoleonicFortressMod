@@ -2,32 +2,6 @@ body_default
 
 [OBJECT:BODY]
 
-[BODY:TRIPOD_BODY]
-	[BP:UB:main body:main bodies][UPPERBODY][LOWERBODY][CATEGORY:BODY]
-	[BP:FL:front upper leg:front upper legs][CONTYPE:LOWERBODY][LIMB][CATEGORY:LEG_UPPER]
-	[BP:LFL:front lower leg:front lower legs][CON:FL][LIMB][STANCE][CATEGORY:LEG_LOWER]
-	[BP:RRL:right upper rear leg:right upper rear legs][CONTYPE:LOWERBODY][LIMB][RIGHT][CATEGORY:LEG_UPPER]
-	[BP:LRRL:right lower rear leg:front lower rear legs][CON:RRL][LIMB][STANCE][CATEGORY:LEG_LOWER]
-	[BP:LRL:left upper rear leg:left upper rear legs][CONTYPE:LOWERBODY][LIMB][LEFT][CATEGORY:LEG_UPPER]
-	[BP:LLRL:left lower rear leg:left lower rear legs][CON:LRL][LIMB][STANCE][CATEGORY:LEG_LOWER]
-
-[BODY:TRIPOD_TENTACLES]
-	[BP:RUT:right iron tentacle:STP][CONTYPE:UPPERBODY][LIMB][RIGHT][GRASP]
-	[BP:LUT:left iron tentacle:STP][CONTYPE:UPPERBODY][LIMB][LEFT][GRASP]
-
-[BODY:TRIPOD_EXOSKELETON]
-	[BP:ARMOR:exoeskeleton:STP]
-		[CONTYPE:UPPERBODY]
-		[INTERNAL][SMALL]
-		[CATEGORY:SKULL]
-		[SKELETON]
-		[DEFAULT_RELSIZE:200]
-		[PREVENTS_PARENT_COLLAPSE]
-		[CONNECTOR]
-
-[BODY:TRIPOD_PILOT]
-	[BP:PILOT:tripod pilot:STP][CON_CAT:SKULL][THOUGHT][INTERNAL][SMALL][CATEGORY:BRAIN]
-
 [BODY:BASIC_1PARTBODY]
 	Categories are user-defined strings that can be used elsewhere to refer to groups of bodyparts for other commands.
 	[BP:UB:body:bodies][UPPERBODY][LOWERBODY][CATEGORY:BODY]

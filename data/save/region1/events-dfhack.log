@@ -1,0 +1,4 @@
+[2015-11-22T14:30:52-0300] DFHack 0.40.24-r4-0-g79e1c49 on Linux; cwd md5: 0f0d5f95a5; save: region1; SC_WORLD_UNLOADED; game type NONE (11)
+[2015-11-22T14:31:00-0300] DFHack 0.40.24-r4-0-g79e1c49 on Linux; cwd md5: 0f0d5f95a5; save: region1; SC_WORLD_LOADED; game type DWARF_MAIN (0)
+[2015-11-22T14:31:56-0300] DFHack 0.40.24-r4-0-g79e1c49 on Linux; cwd md5: 0f0d5f95a5; save: region1; SC_MAP_LOADED; game type DWARF_MAIN (0)
+[2015-11-22T14:36:32-0300] DFHack 0.40.24-r4-0-g79e1c49 on Linux; cwd md5: 0f0d5f95a5; save: region1; SC_MAP_UNLOADED; game type DWARF_MAIN (0)
